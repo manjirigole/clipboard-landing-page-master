@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/16118179-560b-41ad-8884-c74606d40594)
 
 ### Links
 
